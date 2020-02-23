@@ -1,6 +1,6 @@
 .logos {
   margin: 5rem auto 2.5rem auto;
-  width: 50%;
+  width: fit-content;
   display: flex;
 }
 
