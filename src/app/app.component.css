@@ -1,0 +1,38 @@
+.logos {
+  margin: 5rem auto 2.5rem auto;
+  width: 50%;
+  display: flex;
+}
+
+mat-selection-list {
+  width: 70%;
+  margin: auto;
+}
+
+::ng-deep .mat-pseudo-checkbox.mat-pseudo-checkbox-checked{
+  color: green;
+}
+
+::ng-deep .crossed .mat-list-text {
+  text-decoration: line-through;
+}
+
+.x {
+  margin: auto 1rem;
+}
+
+.option-x{
+  display: flex;
+}
+
+app-plus {
+  position: absolute;
+  top: 20%;
+  left: 30.5%;
+}
+
+mat-form-field {
+  display: flex;
+    width: 70%;
+    margin: auto;
+}
