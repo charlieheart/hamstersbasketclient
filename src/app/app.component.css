@@ -37,6 +37,6 @@ mat-form-field {
   margin: auto;
 }
 
-input {
+::ng-deep .mat-form-field-wrapper {
   width: 100%;
 }
