@@ -9,7 +9,7 @@ mat-selection-list {
   margin: auto;
 }
 
-::ng-deep .mat-pseudo-checkbox.mat-pseudo-checkbox-checked{
+::ng-deep .mat-pseudo-checkbox.mat-pseudo-checkbox-checked {
   color: green;
 }
 
@@ -21,20 +21,20 @@ mat-selection-list {
   margin: auto 1rem;
 }
 
-.option-x{
+.option-x {
   display: flex;
 }
 
 app-plus {
   position: absolute;
-  top: 20%;
-  left: 30.5%;
+  top: 9rem;
+  left: 40.5%;
 }
 
 mat-form-field {
   display: flex;
-    width: 70%;
-    margin: auto;
+  width: 70%;
+  margin: auto;
 }
 
 input {
